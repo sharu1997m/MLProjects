@@ -1,4 +1,4 @@
-# Car Price Prediction - Bhuvana Chandra
+# Car Price Prediction - Sharath D M
 
 ### Introduction About the Data :
 
